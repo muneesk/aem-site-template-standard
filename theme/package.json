@@ -11,6 +11,7 @@
     },
     "devDependencies": {
         "@adobe/aem-site-theme-builder": "5.2.1",
+        "@parcel/transformer-less": "^2.6.0",
         "@parcel/transformer-sass": "^2.0.1",
         "autoprefixer": "^10.3.7",
         "browser-sync": "^2.26.13",
